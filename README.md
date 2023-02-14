@@ -1,4 +1,7 @@
+<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300" alt="@carlose61162555"  />
+
 <h1 align="center">Hi 👋, I'm Carlos Amado</h1>
+
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 - 🔭 I’m currently working on [Invitaciones](https://github.com/Erick140297/Invitaciones)
